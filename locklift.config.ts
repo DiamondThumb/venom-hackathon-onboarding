@@ -102,7 +102,7 @@ const config: LockliftConfig = {
       },
       giver: {
         address: "0:e05530c3832acd389f2f637649a35404f1a9f4c458d4843d3a6086e28827d174",
-        phrase: "tumble great spread poppy primary scale usage direct avoid impulse balcony split",
+        phrase: "stumble great spread poppy primary scale usage direct avoid impulse balcony split",
         accountId: 0,
       },
       tracing: {
