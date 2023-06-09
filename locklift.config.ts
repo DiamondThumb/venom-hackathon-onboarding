@@ -101,8 +101,8 @@ const config: LockliftConfig = {
         },
       },
       giver: {
-        address: "0:c4ff7f62da329644fbbc48479dbdc1869cd91ba920d1ce7fec25fe885e7c3f49",
-        phrase: "awful copper marine decide outside caught opinion quit rib concert six rare",
+        address: "0:e05530c3832acd389f2f637649a35404f1a9f4c458d4843d3a6086e28827d174",
+        phrase: "tumble great spread poppy primary scale usage direct avoid impulse balcony split",
         accountId: 0,
       },
       tracing: {
@@ -111,7 +111,7 @@ const config: LockliftConfig = {
       keys: {
         // Use everdev to generate your phrase
         // !!! Never commit it in your repos !!!
-        phrase: "awful copper marine decide outside caught opinion quit rib concert six rare",
+       // phrase: "awful copper marine decide outside caught opinion quit rib concert six rare",
         amount: 20,
       },
     },
